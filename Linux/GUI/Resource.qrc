@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/BG">
+        <file>pf-misctexture01-beer-000_5.jpg</file>
+        <file>blue-background.jpg</file>
+    </qresource>
+</RCC>
